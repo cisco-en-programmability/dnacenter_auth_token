@@ -1,4 +1,4 @@
-# Cisco DNA Center Get Auth Token
+# Cisco DNA Center Auth Token
 
 
 This is a Python sample code to showcase how to get the Cisco DNA Center Auth Token required by all the API calls.
