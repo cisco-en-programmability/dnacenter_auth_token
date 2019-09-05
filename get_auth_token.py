@@ -53,10 +53,10 @@ def pprint(json_data):
 
 def get_dnac_jwt_token(dnac_auth):
     """
-    Create the authorization token required to access DNA C
-    Call to Cisco DNA C - /api/system/v1/auth/login
-    :param dnac_auth - DNA C Basic Auth string
-    :return Cisco DNA C Auth Token
+    Create the authorization token required to access Cisco DNA Center
+    Call to Cisco DNA Center - /api/system/v1/auth/login
+    :param dnac_auth - Cisco DNA Center Basic Auth string
+    :return Cisco DNA Center Auth Token
     """
 
     url = DNAC_URL + '/dna/system/api/v1/auth/token'
