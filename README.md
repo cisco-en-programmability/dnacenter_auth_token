@@ -20,5 +20,4 @@ The Cisco DNA Center Token is:  eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJz...
 
 **License**
 
-This project is licensed to you under the terms of the [Cisco Sample
-Code License](./LICENSE).
+This project is licensed to you under the terms of the [Cisco Sample Code License](./LICENSE).
