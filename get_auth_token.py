@@ -70,4 +70,4 @@ def get_dnac_jwt_token(dnac_auth):
 #  This simple script will obtain the Cisco DNA Center Auth Token that is required for all API calls
 
 dnac_token = get_dnac_jwt_token(DNAC_AUTH)
-print('The Cisco DNA Center Token is: ', dnac_token)
+print('\n\nThe Cisco DNA Center Token is: ', dnac_token)
